@@ -18,7 +18,6 @@ using System;
 
 namespace Xceed.Wpf.Toolkit
 {
-  [CLSCompliantAttribute( false )]
   public class SByteUpDown : CommonNumericUpDown<sbyte>
   {
     #region Constructors

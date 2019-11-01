@@ -19,7 +19,6 @@ using System.Windows;
 
 namespace Xceed.Wpf.Toolkit
 {
-  [CLSCompliantAttribute(false)]
   public class UIntegerUpDown : CommonNumericUpDown<uint>
   {
     #region Constructors

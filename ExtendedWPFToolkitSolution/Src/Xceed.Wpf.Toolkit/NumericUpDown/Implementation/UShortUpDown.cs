@@ -18,7 +18,6 @@ using System;
 
 namespace Xceed.Wpf.Toolkit
 {
-  [CLSCompliantAttribute( false )]
   public class UShortUpDown : CommonNumericUpDown<ushort>
   {
     #region Constructors

@@ -350,7 +350,6 @@ namespace Xceed.Wpf.Toolkit.PropertyGrid.Editors
     }
   }
 
-  [CLSCompliantAttribute( false )]
   public class PropertyGridEditorSByteUpDown : SByteUpDown
   {
     static PropertyGridEditorSByteUpDown()
@@ -359,7 +358,6 @@ namespace Xceed.Wpf.Toolkit.PropertyGrid.Editors
     }
   }
 
-  [CLSCompliantAttribute( false )]
   public class PropertyGridEditorUIntegerUpDown : UIntegerUpDown
   {
     static PropertyGridEditorUIntegerUpDown()
@@ -368,7 +366,6 @@ namespace Xceed.Wpf.Toolkit.PropertyGrid.Editors
     }
   }
 
-  [CLSCompliantAttribute( false )]
   public class PropertyGridEditorULongUpDown : ULongUpDown
   {
     static PropertyGridEditorULongUpDown()
@@ -377,7 +374,6 @@ namespace Xceed.Wpf.Toolkit.PropertyGrid.Editors
     }
   }
 
-  [CLSCompliantAttribute( false )]
   public class PropertyGridEditorUShortUpDown : UShortUpDown
   {
     static PropertyGridEditorUShortUpDown()
